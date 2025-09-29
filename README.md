@@ -1,1 +1,7 @@
-# 안녕하세요
+## introdution
+허승민
+## Carear
+영남대
+## link
+gjtmdals78@gmail.com
+## 

@@ -10,7 +10,7 @@
 ## introduction
 허승민
 ## Career
-영남대
+영남대 2학년
 ## link
 Email : gjtmdals78@gmail.com
 <br>

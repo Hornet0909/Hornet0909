@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome_My_Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome_My_Github&fontSize=80)
 ## Statistics
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Hornet0909&show_icons=true&theme=holi" width = "49%" height="130%" />

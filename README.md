@@ -13,6 +13,7 @@
 영남대
 ## link
 Email : gjtmdals78@gmail.com
+<br>
 itch.io : https://hornet0909.itch.io/
 ## Course
 구글링 깃 허브 페이지 꾸미기

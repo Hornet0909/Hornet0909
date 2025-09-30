@@ -20,3 +20,4 @@ itch.io : https://hornet0909.itch.io/
 구글링 깃 허브 페이지 꾸미기
 Hit - 방문자 수 확인 가능
 
+<img src="https://img.shields.io/badge/#00599Cstyle=for-the-badge&logo=cplusplus&logoColor=black">

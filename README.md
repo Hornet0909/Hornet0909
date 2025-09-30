@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
-출처: https://peachcong.tistory.com/35 [PEACHCONG:티스토리]
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ## Statistics
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Hornet0909&show_icons=true&theme=holi" width = "49%" height="130%" />

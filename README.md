@@ -18,5 +18,5 @@ Email : gjtmdals78@gmail.com
 itch.io : https://hornet0909.itch.io/
 ## Course
 구글링 깃 허브 페이지 꾸미기
-Hit - 방문자 수 확인 가능 줴줴이야
+Hit - 방문자 수 확인 가능
 

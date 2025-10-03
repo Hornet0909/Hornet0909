@@ -16,7 +16,7 @@
 Email : gjtmdals78@gmail.com
 <br>
 itch.io : https://hornet0909.itch.io/
-## Course
+## Learning
 •Udemy
 <br>
 •Game_Academy

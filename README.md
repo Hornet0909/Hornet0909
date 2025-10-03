@@ -9,7 +9,7 @@
 </div>
 
 ## introduction
-허승민
+허승민 (030401)
 ## Career
 영남대 재학
 ## link
